@@ -5,6 +5,7 @@ Learning GItHub
 
 This repository was created to learn while following this YouTube video: https://www.youtube.com/watch?v=RGOj5yH7evk
 
-### Where I am at
+## Where I am at
 
-Stopped at 32:45 - git branching
+1. Stopped at 32:45 - git branching
+2. Started again from 32:45
